@@ -18,7 +18,7 @@
   "homepage": "https://github.com/yvette809/Module-5#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "uniqid": "^5.2.0"
   },
   "devDependencies": {
